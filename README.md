@@ -6,7 +6,7 @@ Software Developer and QA Automation
 ------------------------------------
 
 *   🌍  I'm based in Buenos Aires
-*   🖥️  See my portfolio at [https://juan.software]juan.software
+*   🖥️  See my portfolio at [https://juan.software] juan.software
 *   ✉️  You can contact me at contacto@juan.software
 *   🚀  I'm currently working on Lemon 🍋
 *   🧠  I'm learning Solidity and web3 development
