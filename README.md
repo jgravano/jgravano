@@ -8,7 +8,7 @@ i'm Juan Gravano and i'm test automation engineer from Buenos Aires 🇦🇷
 * 🍋  I'm currently working on [Lemon](http://lemon.me) 
 * 🧠  I'm learning Solidity and web3 development
 
-### Skills
+### Technologies
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
