@@ -1,7 +1,7 @@
 Hello, World! 🤙
 =============================
 
-i'm Juan Gravano and i'm test automation engineer from Buenos Aires 🇦🇷
+I'm Juan Gravano and i'm test automation engineer from Buenos Aires 🇦🇷
 ------------------------------------
 
 * 👁️  See my portfolio at [juan.software](http://juan.software)
