@@ -5,8 +5,7 @@ I'm Juan Gravano and i'm test automation engineer from Buenos Aires 🇦🇷
 ------------------------------------
 
 * 👁️  See my portfolio at [juan.software](http://juan.software)
-* 🍋  I'm currently working on [Lemon](http://lemon.me) 
-* 🧠  I'm learning Solidity and web3 development
+* 🤖  I'm currently working on [Yuno](http://y.uno) 
 
 ### Technologies
 
