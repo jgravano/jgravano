@@ -1,6 +1,7 @@
 # Hello, World! 🌍
 
-👋 Hola! I'm **Juan Gravano**, a QA Automation Lead and creative technologist from Buenos Aires, Argentina 🇦🇷. Passionate about building scalable automation frameworks, optimizing processes, and exploring the intersection of **art and technology**.
+👋 Hola! I'm **Juan Gravano**, a QA Automation Lead and creative technologist from Buenos Aires, Argentina 🇦🇷. 
+Passionate about building scalable automation frameworks, optimizing processes, and exploring the intersection of **art and technology**.
 
 ---
 
@@ -15,7 +16,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg" width="36" height="36" alt="Selenium" /></a>
 </p>
 
 ---
