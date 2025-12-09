@@ -1,31 +1,24 @@
-# Hello, World! 🌍
+# Juan Gravano
 
-👋 Hola! I'm **Juan Gravano**, a QA Automation Lead and creative technologist from Buenos Aires, Argentina 🇦🇷. 
-Passionate about building scalable automation frameworks, optimizing processes, and exploring the intersection of **art and technology**.
+QA Automation Lead — Buenos Aires 🇦🇷
 
----
-
-### 🔗 Links:
-- **Portfolio**: [juan.software](http://juan.software)
+Diseño sistemas de automatización para productos en producción.  
+API-first, CI/CD friendly, sin complejidad innecesaria.
 
 ---
 
-### 🛠️ Technologies I Work With:
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+https://juan.software
 
 ---
 
-### 🌟 About Me:
-- **Current Focus**: Leading QA automation strategies and building modular, scalable frameworks.
-- **Interests**: Exploring creative technology projects like 3D galleries and data-driven art.
-- **Personal Goals**: Combining my passion for art, technology, and problem-solving to create impactful solutions.
+## Stack
+
+Python · JavaScript · Node.js · Docker
 
 ---
 
-### 🌊 Fun Fact:
-I'm inspired by the sea's vastness and tranquility, often drawing creativity from its ever-changing nature.
+## Focus
+
+- Automation frameworks
+- Integraciones y flujos críticos
+- Calidad como sistema
