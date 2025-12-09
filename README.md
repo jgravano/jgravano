@@ -9,16 +9,3 @@ API-first, CI/CD friendly, sin complejidad innecesaria.
 
 https://juan.software
 
----
-
-## Stack
-
-Python · JavaScript · Node.js · Docker
-
----
-
-## Focus
-
-- Automation frameworks
-- Integraciones y flujos críticos
-- Calidad como sistema
