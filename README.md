@@ -1,1 +1,2 @@
-intento hacer cosas creativas en https://juan.software
+craetive at https://juan.software
+ai at @takenos
